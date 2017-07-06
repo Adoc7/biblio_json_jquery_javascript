@@ -1,0 +1,26 @@
+#zone{
+    width: auto;
+/*height:800px;*/
+    background-color: black;
+    padding:50px;
+    color:greenyellow;
+    font-size:1.3em;
+    line-height: 1.8em;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+#lecture{
+    height:80px;
+    font-weight:bold;
+}
+
+.image{
+  width:160px;
+  height:190px;
+}
+
+/*.json{
+  padding: 3em;
+  height:800px;
+}*/

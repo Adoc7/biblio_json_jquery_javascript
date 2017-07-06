@@ -1,0 +1,324 @@
+{
+  "books": [
+    {
+      "ISBN": "9791092353358",
+      "title": "La reine des coquillages",
+      "author": "CLEMENT Nathalie & Yves-Marie",
+      "illustrator": "BAILLY Simon",
+      "editor": "Pourquoi pas ?",
+      "year": "avril 2017",
+      "genre": "Roman",
+      "age": "Junior",
+      "cover": "https://www.livralire.org/wp-content/uploads/2017/05/reine-coquillage.jpg",
+      "description": "La baleine bleue : une silhouette de 30 m de long, un coeur de 600 kilos, une langue de 3 tonnes et un œil de 15 cm ! Le plus gros mammifère de la planète qui mange jusque 4 tonnes de nourriture par jour, bon nageur mais qui ne peut respirer sous l’eau et dort par intermittence. Un animal intelligent, longtemps chassé, heureusement protégé depuis 1966."
+    },
+    {
+      "ISBN": "9782970106852",
+      "title": "Pénélope ne parle pas",
+      "author": "TORTOLINI Luca",
+      "illustrator": "ARAYA Rocio",
+      "editor": "Notari",
+      "year": "avril 2017",
+      "genre": "Album",
+      "age": "Benjamin",
+      "cover": "https://www.livralire.org/wp-content/uploads/2017/05/penelope.jpg",
+      "description": "La baleine bleue : une silhouette de 30 m de long, un coeur de 600 kilos, une langue de 3 tonnes et un œil de 15 cm ! Le plus gros mammifère de la planète qui mange jusque 4 tonnes de nourriture par jour, bon nageur mais qui ne peut respirer sous l’eau et dort par intermittence. Un animal intelligent, longtemps chassé, heureusement protégé depuis 1966."
+    },
+    {
+      "ISBN": "9782092575413",
+      "title": "La soupe à tout !",
+      "author": "DESBORDES Astrid",
+      "illustrator": "BOUTAVANT Marc",
+      "editor": "Nathan",
+      "year": "mai 2017",
+      "genre": "Album",
+      "age": "Benjamin",
+      "cover": "https://www.livralire.org/wp-content/uploads/2017/05/soupeatout.jpg",
+      "description": "Edmond propose à ses amis des bois de faire une soupe à tout, comme dans son enfance. Chacun apportera un légume de son choix, mais il leur faudra trouver quel est l’ingrédient-mystère dont sa grand-mère, fine cuisinière, ne lui a jamais livré le secret. Alors seulement la soupe aura toute sa saveur."
+    },
+    {
+      "ISBN": "9782889083664",
+      "title": "Pic pique-nique",
+      "author": "BERNER Rotraut Susanne",
+      "illustrator": "BOUTAVANT Marc",
+      "editor": "La Joie de lire",
+      "year": "avril 2017",
+      "genre": "Album",
+      "age": "Petit",
+      "cover": "https://www.livralire.org/wp-content/uploads/2017/05/picpiquenique.jpg",
+      "description": "La journée s’annonce belle. Poule noire, l’entreprenante, propose un pique-nique. Poule blanche, la méfiante, préférerait rester à la maison pour lire. Elle a peur d’avoir froid, elle a mal aux pieds… Pas de problème, dit poule noire, il suffit d’emporter une veste, un livre, des pansements… Les deux commères se mettent en route. Le chariot est lourd. Il fait chaud. Qui rira la première ?"
+    },
+    {
+      "ISBN": "9782070588176",
+      "title": "The glory, la course impossible",
+      "author": "ST JOHN Lauren",
+      "illustrator": "BOUTAVANT Marc",
+      "editor": "Gallimard jeunesse",
+      "year": "avril 2017",
+      "genre": "Roman",
+      "age": "Ado",
+      "cover": "https://www.livralire.org/wp-content/uploads/2017/04/glory.jpg",
+      "description": "En mémoire de son grand-père qui lui contait des histoires de mustangs, un homme d’affaires décide d’organiser une course d’endurance à cheval à travers l’ouest américain. Pour le vainqueur, la gloire et 250 000 dollars. Parmi les concurrents, deux jeunes téméraires. Alex, une  jeune fille échappée d’un centre de rééducation,  monte un vieux palomino et Will, un cheval qu’il veut sauver de l’abattoir. Elle veut regagner l’estime de ses parents. Il espère payer l’hospitalisation de son père. Le hasard de la chevauchée  de 2000 kilomètres les fait se rencontrer et affronter difficultés techniques et rivalités."
+    },
+    {
+      "ISBN": "9791023508468",
+      "title": "Moi, j’ai le droit mais je dois",
+      "author": " BRAMI Elisabeth",
+      "illustrator": "PENICAUD Clémence",
+      "editor": "Seuil jeunesse",
+      "year": "mars 2017",
+      "genre": "Album",
+      "age": "Cadet",
+      "cover": "http://ref.lamartinieregroupe.com/media/9791023508468/hd/134498_couverture_Hres_0.jpg",
+      "description": "En mémoire de son grand-père qui lui contait des histoires de mustangs, un homme d’affaires décide d’organiser une course d’endurance à cheval à travers l’ouest américain. Pour le vainqueur, la gloire et 250 000 dollars. Parmi les concurrents, deux jeunes téméraires. Alex, une  jeune fille échappée d’un centre de rééducation,  monte un vieux palomino et Will, un cheval qu’il veut sauver de l’abattoir. Elle veut regagner l’estime de ses parents. Il espère payer l’hospitalisation de son père. Le hasard de la chevauchée  de 2000 kilomètres les fait se rencontrer et affronter difficultés techniques et rivalités."
+    },
+    {
+      "ISBN": "9782362900938",
+      "title": "Parking de nuit",
+      "author": " HEITZ Bruno",
+      "illustrator": "",
+      "editor": "Le Genévrier",
+      "year": "mars 2017",
+      "genre": "Documentaire",
+      "age": "Cadet",
+      "cover": "https://www.livralire.org/wp-content/uploads/2017/03/parkingnuit.jpg",
+      "description": "Que font les voitures la nuit dans un parking souterrain ? Elles se racontent leur vie d’un étage à l’autre. La berline a été cabossée. Ça ne risque pas d’arriver au 4×4 aux pare-chocs rutilants. Le 2CV évoque sa vie mouvementée et sa notoriété qui en fait une voiture de collection. Le monospace se plaint des rejetons qui lui collent leurs chewing-gums. La camionnette diesel maudit la fumée. Quand … POUET ! POUET ! arrive un drôle d’engin : une voiture de manège, échappée de son carrousel, qui leur propose de faire des cascades. Chacun a une bonne raison de refuser."
+    },
+    {
+      "ISBN": "9782745980304",
+      "title": "Le terrible monstre à capuche",
+      "author": " ANTONY Steve",
+      "illustrator": "",
+      "editor": "Milan",
+      "year": "février 2017",
+      "genre": "Album",
+      "age": "Petit",
+      "cover": "https://www.livralire.org/wp-content/uploads/2017/03/monstrecapuche.jpg",
+      "description": "Sammy l’écureuil, Henri le hérisson et Luigi la souris veulent voir de leurs propres yeux le monstre qui soi-disant rôde dans le quartier. Chacun leur tour, ils le somment de se montrer. La première demande déclenche le GLAP d’une bande de rats apeurés par son oeil orange. Le second appel génère le CRISSS d’un nuage de chauve-souris tremblantes face à ses grosses mains poilues. A la troisième supplique, ils entendent le MIAÔÔÔ d’une meute de chats effrayés par sa grosse bouche… mais toujours pas de monstre. S’ils le supplient en choeur, le ronron-grognon-glouton se montrera-t-il ? Et si oui, comment se passera la rencontre ?"
+    },
+    {
+      "ISBN": "9782848659343",
+      "title": "Le garçon qui courait",
+      "author": "LORRAIN François-Guillaume",
+      "illustrator": "",
+      "editor": "Sarbacane",
+      "year": "janvier 2017",
+      "genre": "Roman",
+      "age": "Grand ado",
+      "cover": "https://www.livralire.org/wp-content/uploads/2017/01/gar%C3%A7onquicourait.jpg",
+      "description": "En 1919, la Corée est sous domination japonaise. Après que son frère aîné ait commis un acte de résistance à l’école qui lui vaudra la déportation, Kee-chung échappe à la police en sprintant. Il met ses talents sportifs au service de son père, marchand de quatre saisons, en courant chaque matin avant l’école jusqu’à la frontière chinoise pour acheter des melons et des pastèques, très prisés des Japonais. Un professeur qui a remarqué son agilité devient son entraîneur et lui parle des jeux olympiques. Des années plus tard, à l’université, on lui propose une préparation gratuite pour les JO de Berlin. Il hésite. S’il gagnait le marathon, il pourrait faire connaître son pays. Mais peut-il accepter de participer à la compétition sous un nom japonais et avec un dossard aux couleurs de l’envahisseur ? Et s’il gagnait, quel serait son sort et celui de sa famille ?"
+    },
+    {
+      "ISBN": "9722278059461",
+      "title": "Barracuda for ever",
+      "author": "RUTER Pascal",
+      "illustrator": "",
+      "editor": "Didier jeunesse",
+      "year": "janvier 2017",
+      "genre": "Roman",
+      "age": "Grand ado",
+      "cover": "https://pbs.twimg.com/media/C3Li02NWYAEQ4Mb.jpg:small",
+      "description": "A 85 ans, Napoléon, ancien boxeur, puis taxi, veut du neuf dans sa vie. Il divorce d’avec Joséphine, installe une salle de gym dans sa vieille maison, adopte un chien à la SPA. Léonard Bonheur, son petit fils de 10 ans surnommé « mon coco », devient son aide de camp. Ensemble ils se déhanchent sur un tube de Cloclo, voyagent en vieille 404, préparent le kidnapping de l’animateur du jeu des 1000 euros. Mais l’euphorie qui accompagne ce regain de vitalité ne dure qu’un temps. La santé physique et mentale du grand-père se dégrade. On parle de maison de retraite. Napoléon refuse d’être déporté. Il fait de Coco son agent infiltré."
+    },
+    {
+      "ISBN": "9782812611971",
+      "title": "Au secours ! Maman rétrécit",
+      "author": "RAUD Piret",
+      "illustrator": "",
+      "editor": "Rouergue, dacodac",
+      "year": "11 janvier 2017",
+      "genre": "Roman",
+      "age": "Cadet",
+      "cover": "http://www.sauramps.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/971/9782812611971_1_75.jpg",
+      "description": "La vie du jeune Sander est compliquée. A chaque contrariété, sa maman rétrécit jusqu’à avoir la taille d’un Lego. Il doit la remplacer dans les tâches domestiques et veiller sur elle : la nourrir, lui faire un lit dans une boîte d’allumettes. En journée, il la glisse dans sa poche et l’emmène à l’école où elle sympathise avec Aksel, un garçon qu’elle est seule à voir. Un soir où la maîtresse est très énervée par la disparition de son carnet de notes, Sander  s’aperçoit que sa maman a elle aussi disparu. Comment la retrouver ? Où la chercher ? Ça parait impossible. Heureusement un chien solitaire et malin veille sur Sander …"
+    },
+    {
+      "ISBN": "9782889083367",
+      "title": "Le petit prince de Calais",
+      "author": "TEULADE Pascal",
+      "illustrator": "",
+      "editor": "La Joie de lire, hibouk",
+      "year": "octobre 2016",
+      "genre": "Roman",
+      "age": "Junior",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/61qGBg0zbZL.jpg",
+      "description": "Jonas, 15 ans, vit avec sa famille en Erythrée. Sa passion : les poissons. Son rêve : quitter l’école et accompagner son père à la pêche. Le maître croit libérer son élève de la corvée scolaire en le faisant enrôler dans l’armée. Les parents de Jonas, connaissant la violence exercée sur les recrues, enjoignent leur fils de partir au plus vite en Europe. Après un voyage très difficile où on lui vole des vêtements et sa carte d’identité, il arrive à Calais, objectif l’Angleterre où l’accueillera un cousin. Jonas se fait rouler par un passeur : sa première tentative de traversée est un échec. Il s’installe dans un abri de fortune, rencontre des calaisiens de son âge qui ont bien du mal à l’aider. Il faudrait déjà pouvoir se comprendre…"
+    },
+    {
+      "ISBN": "9782070669967",
+      "title": "Le garçon au sommet de la montagne",
+      "author": "BOYNE John",
+      "illustrator": "",
+      "editor": "Gallimard jeunesse",
+      "year": "juin 2016",
+      "genre": "Roman",
+      "age": "Ado",
+      "cover": "http://images.leslibraires.ca/books/9782075061063/front/9782075061063_original.jpg",
+      "description": "1936. Pierrot, petit parisien de sept ans se retrouve orphelin et est recueilli par la famille de son inséparable ami juif Anshel. Les risques augmentant, l’enfant franco-allemand est conduit en train dans un orphelinat près d’Orléans. Le séjour est de courte durée. Béatrix, une tante paternelle est disposée à l’accueillir. Après dix heures de train où il doit céder son sandwich à des jeunes en uniforme et un trajet en voiture avec un chauffeur conciliant, il arrive dans les Alpes bavaroises. Dans une grande maison fourmillant de personnel, il doit adopter le prénom de Pieter, revêtir un uniforme, ruser pour écrire à Anshel, ne plus penser à la France. C’est qu’il est au Berghof, résidence de vacances d’Hitler. Un an après son arrivée, le Führer lui fait un cadeau : de quoi faire du  petit français chétif quelqu’un de fort et d’important. Sa tante est inquiète. Il y a de quoi …"
+    },
+    {
+      "ISBN": "9782211230629",
+      "title": "DESPLECHIN Marie & HOK Sothik",
+      "author": "",
+      "illustrator": "TIAN",
+      "editor": "Ecole des loisirs",
+      "year": "septembre 2016",
+      "genre": "Récit",
+      "age": "Ado",
+      "cover": "http://www.lenvoleeculturelle.fr/wp-content/uploads/2016/10/Premi%C3%A8re-de-couverture.jpg",
+      "description": "Sothik  naît au Cambodge en 1967 dans une famille heureuse. En 1970, après une année de bombardements américains, les Khmers rouges s’installent au village. La libération espérée tourne à l’enfer : l’argent est aboli, les cultures contrôlées, la religion interdite, la propriété spoliée. En 1975, les Khmers rouges entrent dans Phnom Penh et prennent le pouvoir. Les intellectuels et bourgeois sont déportés à la campagne, les enfants sont arrachés à leur famille pour  travailler durement et être endoctrinés par l’Angkar. La vie humaine ne vaut plus rien. C’est le chacun pour soi, sauf quand la faim tenaille. Ce n’est qu’en 1978, alors que la situation politique est sur le point de basculer, que Sothik peut retourner à l’école. Se dessine enfin une vie meilleure."
+    },
+    {
+      "ISBN": "9782278081660",
+      "title": "L’ogre et sa princesse aux petits oignons",
+      "author": "INGHILTERRA Sabrina",
+      "illustrator": "",
+      "editor": "Didier jeunesse",
+      "year": "mai 2016",
+      "genre": "Roman",
+      "age": "Cadet",
+      "cover": "https://arcanesouvertes.files.wordpress.com/2016/05/tumblr_o81c3tbhby1t0vz51o1_1280.jpg",
+      "description": "Rejeté par ses pairs, Ventrerond, ogre végétarien, s’est installé à Paris. Depuis deux ans,  il a écumé les restaurants et mitonné des petits plats, sous l’œil attendri de sa voisine d’en face qui s’étonne depuis quelques temps de l’absence d’activité et de fumet. C’est que Ventrerond n’a plus un sou. Arrive alors par la poste l’annonce, dans les Carpates, d’un concours culinaire avec 20 000 galons d’or à la clé. Dans le train qui le ramène sur sa terre natale où vit son ogresse de mère, il trouve dans un livre abandonné une recette prometteuse à base de filets de princesse. Mais comment trouver ce produit rare et cher ?"
+    },
+    {
+      "ISBN": "9791091081207",
+      "title": "Le plus beau jour de ma vie",
+      "author": "RUFFIE LACAS Béatrice",
+      "illustrator": "ZAÜ",
+      "editor": "Utopique",
+      "year": "avril 2016",
+      "genre": "Album",
+      "age": "Benjamin",
+      "cover": "http://a-vos-marques-tapage.fr/wp-content/uploads/2016/09/plusbeaujourvie.jpg",
+      "description": "C’était quand, le plus beau jour de toute ta vie ? Sa question, Louis va la poser à ses parents puis à sa sœur ainée. Le père répond tout de suite, mais sans lever le nez de la télé. La mère rechigne : elle a encore plein de travail à l’ordi. Camille, casque aux oreilles, est en colère : son frère la dérange dans ses SMS. Mais au moins, Louis a la réponse de chacun. Au cours du dîner silencieux, il déclare posément que son jour fantastique à lui, c’est celui de la grande tempête. Stupéfaction ! Qu’est-ce-que cette nuit mémorable a apporté d’autre que des dégâts matériels à leur maison ?"
+    },
+    {
+      "ISBN": "9782211217620",
+      "title": "Pierre contre ciseaux",
+      "author": "Inès GARLAND",
+      "illustrator": "",
+      "editor": "Ecole des loisirs",
+      "year": "mars 2014",
+      "genre": "Roman",
+      "age": "Ado",
+      "cover": "https://www.ecoledesloisirs.fr/sites/default/files/couverture/9782211217620.jpg",
+      "description": "Alma, fille unique de milieu privilégié, vit à Buenos-Aires. Chaque week-end et les vacances, elle rejoint avec ses parents une île du delta. Elle côtoie la modeste famille voisine et devient l’amie très chère de Carmen et de son frère aîné Marito. Une fois passé le temps insouciant de l’enfance avec les jeux, les bains, les cabanes, les relations se compliquent dans les années lycée. Ils ne sont pas du même monde. Alma le signifie à Carmen lors d’une soirée chez elle. C’est la rupture. Quant à Marito, il part travailler à l’usine pour payer ses études. C’est le silence. Alma ne saisit pas ce qui se passe avec eux et autour d’elle jusqu’à ce jour de mars 1976 où la junte militaire prend le pouvoir. Alma va connaître les déchirements d’un amour brûlant mais impossible pour Marito et héberger Carmen enceinte et menacée."
+    },
+    {
+      "ISBN": "9782211209830",
+      "title": "Le Passage du Diable",
+      "author": "Anne FINE",
+      "illustrator": "Ecole des loisirs, grand format",
+      "editor": "",
+      "year": "janvier 2014",
+      "genre": "Roman",
+      "age": "Ado",
+      "cover": "https://www.ecoledesloisirs.fr/sites/default/files/styles/couverture_livre/public/couverture/9782211209830.jpg?itok=i959OSR5",
+      "description": "Pendant dix ans, une mère a fait passer son jeune fils Daniel pour malade, le confinant à l’intérieur avec pour seul univers des livres et une maison de poupée, copie conforme de la maison de son enfance à elle. Quand un médecin accueille Daniel dans sa famille, tout est nouveau pour lui. Pourtant il s’adapte particulièrement bien à la vie en société comme s’il avait déjà vu ses nouvelles connaissances dans la maison miniature. Cette étrange protection est-elle le fruit de son imagination ou le signe d’une malédiction ?"
+    },
+    {
+      "ISBN": "9782070646425",
+      "title": "L’encyclopédie des héros",
+      "author": "J-B POUY A BLANCHARD F MIZIO",
+      "illustrator": "Serge BLOCH",
+      "editor": "Gallimard jeunesse",
+      "year": "novembre 2012",
+      "genre": "Documentaire",
+      "age": "Junior",
+      "cover": "http://www.lespetitsbouquins.com/wp-content/files_flutter/1352387853encycloheros.gif",
+      "description": "James Bond, le charmeur. Tarzan, l’enfant sauvage. Peter Pan, le facétieux. Ulysse et Sindbad, les globe-trotters. Sherlock Holmes, le détective. Mélusine, la magicienne. Antigone, la séductrice. Les héros, anciens ou modernes, peuplent nos imaginaires et envahissent les objets de la vie quotidienne. Surgis de livres ou de films, ils véhiculent des thèmes universels. Mais d’où viennent-ils ?"
+    },
+    {
+      "ISBN": "9782800170640",
+      "title": "Imbattable Tome 1 : Justice et légumes frais",
+      "author": "JOUSSELIN Pascal",
+      "illustrator": "JOUSSELIN Pascal",
+      "editor": "Dupuis",
+      "year": "avril 2017",
+      "genre": "BD",
+      "age": "Cadet, Junior",
+      "cover": "https://media.senscritique.com/media/000016888394/source_big/Justice_et_legumes_frais_Imbattable_tome_1.jpg",
+      "description": "En toute modestie, Imbattable se définit comme le seul véritable super-héros de bande dessinée. Il possède effectivement un incroyable pouvoir, celui de voir, agir, bondir d’une case à l’autre ! Grâce à ce talent inhabituel, le super-héros joliment costumé de jaune sauve veuves, orphelins et chatons, arrête malfrats et savants fous, ridiculise politiciens véreux et industriels sans foi ni loi, et ramène du pain à sa mémé. Mais parviendra-t-il à déjouer les pièges de Plaisantin, le plus malveillant des criminels, lui-même doté de compétences hors-normes ?"
+    }
+  ],
+  "users":[
+    {
+      "firstname": "Inès",
+      "lastname": "Leroux",
+      "age": "16",
+      "date": "11/05/2001",
+      "inscription": "23/05/2016",
+      "adress": "21 Rue des Fraîches - Alès",
+      "password": "wbraan16",
+      "email": "ines-socapa@yopmail.com",
+      "emprunt":[
+        {
+          "book": "9782211209830",
+          "date": "23/05/2017"
+        }
+      ]
+    },
+    {
+      "firstname": "Sylvain",
+      "lastname": "Baudry",
+      "age": "12",
+      "date": "11/05/2005",
+      "inscription": "23/05/2016",
+      "adress": "8 Rue du Bas Poitou - Alès",
+      "password": "ihwwyf1h",
+      "email": "sylvain-voqiv@yopmail.com",
+      "emprunt":[
+        {
+          "book": "9782800170640",
+          "date": "15/05/2017"
+        }
+      ]
+    },
+    {
+      "firstname": "Valentin",
+      "lastname": "Bruneau",
+      "age": "8",
+      "date": "11/05/2009",
+      "inscription": "12/01/2017",
+      "adress": " 26 Rue de la Métallurgie - Alès",
+      "password": "b274mt8c",
+      "email": "valentin-zasomol@yopmail.com",
+      "emprunt":[
+        {
+          "book": "9782278081660",
+          "date": "02/05/2017"
+        }
+      ]
+    },
+    {
+      "firstname": "Florentin",
+      "lastname": "Delahaye",
+      "age": "7",
+      "date": "16/08/2010",
+      "inscription": "19/04/2017",
+      "adress": " 43 Rue Volta - Alès",
+      "password": "7wieytqp",
+      "email": "florentin-wavexu@yopmail.com",
+      "emprunt":[
+        {
+          "book": "9782092575413",
+          "date": "20/05/2017"
+        }
+      ]
+    }
+  ],
+  "admin": [
+    {
+      "firstname": "François",
+      "lastname": "Bois",
+      "password": "hgsfa93g",
+      "admin" : "true"
+    },
+    {
+      "firstname": "Ghislaine",
+      "lastname": "Esnault",
+      "password": "aijeu8hp",
+      "admin" : "true"
+    }
+  ]
+}
